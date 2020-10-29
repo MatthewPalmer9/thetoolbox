@@ -7,3 +7,4 @@
 - [Matthew Palmer](https://github.com/matthewpalmer9)
 - [Ryan Parrish](https://github.com/rwparrish)
 - [Robert Gumeny](https://github.com/RobertGumeny)
+- [Santigao Salazar Pavajaeu](https://github.com/SantiagoSalazarPavajeau)
