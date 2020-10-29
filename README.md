@@ -58,7 +58,7 @@ If you are having an issue with the existing project code, please submit a bug r
 -Submit a detailed bug report including your environment & browser, steps to reproduce the issue, actual and expected outcomes, where you believe the issue is originating from, and any potential solutions you have considered.
 
 ### Feature Requests
-I would love to hear from you about new features which would improve this app and further the aims of my project. Please provide as much detail and information as possible to show me why you think your new feature should be implemented.
+We would love to hear from you about new features which would improve this app and further the aims of this project. Please provide as much detail and information as possible to show us why you think your new feature should be implemented.
 
 ### Pull Requests
 If you have developed a patch, bug fix, or new feature that would improve this app, please submit a pull request. It is best to communicate your ideas with the developers first before investing a great deal of time into a pull request to ensure that it will mesh smoothly with the project.
@@ -68,4 +68,4 @@ If you have developed a patch, bug fix, or new feature that would improve this a
 - Ensure any install or build dependencies are removed before the end of the layer when doing a build.
 - Ensure that your code conforms to our existing code conventions and test coverage.
 - Include the relevant issue number, if applicable.
-- You may merge the Pull Request in once you have the sign-off of the developer(s)
+- You may merge the Pull Request in once you have the sign-off of the developers.
