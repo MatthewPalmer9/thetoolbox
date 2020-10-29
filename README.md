@@ -3,13 +3,13 @@ Production: Currently not available
 Staging: Currently not available
 
 ## Developers
-[Aidan McBride](https://github.com/AidanMcB)
-[Chris Blount](https://github.com/bubeez)
-[Kailana Kahawaii](https://github.com/kailanak1)
-[Kal Megati](https://github.com/KalMegati)
-[Matthew Palmer](https://github.com/matthewpalmer9)
-[Ryan Parrish](https://github.com/rwparrish)
-[Robert Gumeny](https://github.com/RobertGumeny)
+- [Aidan McBride](https://github.com/AidanMcB)
+- [Chris Blount](https://github.com/bubeez)
+- [Kailana Kahawaii](https://github.com/kailanak1)
+- [Kal Megati](https://github.com/KalMegati)
+- [Matthew Palmer](https://github.com/matthewpalmer9)
+- [Ryan Parrish](https://github.com/rwparrish)
+- [Robert Gumeny](https://github.com/RobertGumeny)
 
 ## About
 `The Toolbelt` serves to solve as many problems in every day life as possible. Whether you're a developer or someone who just needs somewhere to maintain a grocery list, `The Toolbelt` is an open source project maintained by passionate developers who just want to make your life easier!
