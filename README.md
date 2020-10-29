@@ -5,6 +5,7 @@ Staging: Currently not available
 ## Developers
 - [Aidan McBride](https://github.com/AidanMcB)
 - [Chris Blount](https://github.com/bubeez)
+- [CiaraMaria Proia](https://github.com/proiacm)
 - [Kailana Kahawaii](https://github.com/kailanak1)
 - [Kal Megati](https://github.com/KalMegati)
 - [Matthew Palmer](https://github.com/matthewpalmer9)
@@ -29,7 +30,7 @@ Staging: Currently not available
 ## Dependencies 
 | Dependency | URL      |
 |-----------|-----------|
-| TBA            | TBA|
+| react-router-dom      | [Link](https://www.jsdelivr.com/package/npm/react-router-dom) |
 
 
 ## Back-end Documentation
