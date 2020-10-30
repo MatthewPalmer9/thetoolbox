@@ -3,15 +3,17 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './styles/temp.css';
 
 // Route Components
-import Index from './components/Index.jsx';
 import Default from './components/Default.jsx';
+import Index from './components/Index.jsx';
+import Navbar from './components/Navbar.jsx';
+
 
 export default class App extends Component {
   render() {
     return (
       <>
         <Router>
-          {/* This is where our Navbar can go as a component once created */}
+          <Navbar />
             <Switch>
               <Route exact path="/" component={Index}/>
               <Route component={Default} />
