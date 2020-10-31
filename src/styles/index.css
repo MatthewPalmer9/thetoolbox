@@ -1,0 +1,26 @@
+.lp-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#header-split {
+    margin-bottom: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+
+.lp-container-header {
+    display: block;
+    margin: 100px 0 0 0;
+    padding-left: 40px;
+}
+
+.undraw-laptop img {
+    margin-top: 50px;
+    height: 400px;
+    width: 700px;
+}
+
+h3 {
+    text-align: center;
+}
