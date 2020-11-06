@@ -20,6 +20,14 @@ h1 {
     font-size: 24px;
 }
 
-nav {
+.navbar {
+    display: flex;
+    color: white;
     background-color: black;
+}
+
+.nav {
+    position: absolute;
+    top: 20px;
+    right: 20px;
 }
