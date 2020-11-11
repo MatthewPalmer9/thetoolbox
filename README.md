@@ -1,6 +1,5 @@
-# The Toolbelt
+# The Toolbox
 Production: Currently not available
-Staging: Currently not available
 
 ## Developers
 - [Aidan McBride](https://github.com/AidanMcB)
@@ -14,7 +13,7 @@ Staging: Currently not available
 - [Santigao Salazar Pavajaeu](https://github.com/SantiagoSalazarPavajeau)
 
 ## About
-`The Toolbelt` serves to solve as many problems in every day life as possible. Whether you're a developer or someone who just needs somewhere to maintain a grocery list, `The Toolbelt` is an open source project maintained by passionate developers who just want to make your life easier!
+`The Toolbox` serves to solve as many problems in every day life as possible. Whether you're a developer or someone who just needs somewhere to maintain a grocery list, `The Toolbox` is an open source project maintained by passionate developers who just want to make your life easier!
 
 ## Key Features
 - Currently in alpha production.
