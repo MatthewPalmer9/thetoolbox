@@ -37,7 +37,7 @@ export default class Navbar extends PureComponent {
                             <li><a href="/">Home</a></li>
                             <li><a href="/dashboard">Dashboard</a></li>
                             <li><a href="/">About</a></li>
-                            <li><a href="/">Contact </a></li>
+                            <li><a href="/">Contact</a></li>
                         </ul>
                     </div>
                 </nav>
