@@ -1,4 +1,5 @@
 import React, { PureComponent } from 'react';
+import '../styles/navbar.css';
 
 export default class Navbar extends PureComponent {
 
@@ -7,7 +8,6 @@ export default class Navbar extends PureComponent {
         const activeElements = document.querySelectorAll(".active-element");
         const mainLogo = document.querySelector(".brand");
         mainLogo.style.zIndex = "3000";
- 
 
         const toggledMenu = menuToggle.addEventListener("click", () => {
             for(let i = 0; i < activeElements.length; i++) {
@@ -34,10 +34,9 @@ export default class Navbar extends PureComponent {
                     {/* Nav Links */}
                     <div className="main-nav-list active-element">
                         <ul>
-                            <li><a href="/">Demo Reel</a></li>
-                            <li><a href="/">Faces</a></li>
-                            <li><a href="/" className="mobile-hide">Blog</a></li>
-                            <li><a href="/" className="active-link">About</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/dashboard">Dashboard</a></li>
+                            <li><a href="/">About</a></li>
                             <li><a href="/">Contact</a></li>
                         </ul>
                     </div>

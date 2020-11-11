@@ -130,7 +130,7 @@ h3 {
 }
 
 .main-nav-list.active a{
-    transition-delay: 600ms;
+    /* transition-delay: 600ms; */
     opacity: 1;
 }
 
